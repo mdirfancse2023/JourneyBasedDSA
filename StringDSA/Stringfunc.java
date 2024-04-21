@@ -10,7 +10,6 @@ public class Stringfunc {
     System.out.println(str.toUpperCase());
     System.out.println(str.trim());
     System.out.println(str.replace('e','m'));
-
     for (char st : str.toCharArray()) {
         System.out.println(st);
     }
